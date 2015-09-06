@@ -16,6 +16,8 @@
 	*	Fis3.0
 	*	gulp
 	
+*	MV*
+	*	Knockout.js
 *	其他
 
 
