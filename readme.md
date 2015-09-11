@@ -4,6 +4,7 @@
 *	Javascript
 	*	js严格模式
 	*	js动画库
+	*	Cookie学习札记
 
 *	CSS
 	*	css基础
@@ -18,6 +19,7 @@
 	
 *	MV*
 	*	Knockout.js
+	
 *	其他
 
 
